@@ -1,5 +1,8 @@
 # ProjektErlang
-- prezentacja w ppt 
-- dokumentacja z której bedzie prowadzona prezentacja
-- kod programu przykladowego umieszczony na prezentacji
-- ksiazka z ktorej korzystano
+This is a erlang presentation about Wrangler.
+Including: 
+-presentation in ppt,
+-documentation,
+-source book,
+-code.
+Authors: Olszewska Malgorzata, Polnik Wojciech
